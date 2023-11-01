@@ -23,4 +23,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanpm&show_icons=true&locale=en&layout=compact" alt="hoanpm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoanpm&show_icons=true&locale=en" alt="hoanpm" /></p>
