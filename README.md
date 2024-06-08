@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Flutter, SwiftUI, ...**
 
-- 💬 Ask me about **Swift**
-
 - 📫 How to reach me **hoan922003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
